@@ -160,6 +160,4 @@ loadTheme('https://your-cdn.com/themes/halloween.js');
 ## Support
 
 For help creating themes or reporting issues:
-- Check the `public/themes/README.md` for detailed color documentation
-- Review example themes in `public/themes/`
 - Email: hideout-network-buisness@hotmail.com
