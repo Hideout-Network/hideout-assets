@@ -36,6 +36,11 @@
       "id": "crimson",
       "name": "Crimson",
       "themePath": "/crimson.js"
+    },
+    {
+      "id": "christmas",
+      "name": "Christmas",
+      "themePath": "/christmas.js"
     }
   ]
 }
