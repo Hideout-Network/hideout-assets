@@ -1,6 +1,6 @@
 {
   "site": "https://hideout-network.github.io/hideout-assets/themes",
-  "main-theme": "christmas2025",
+  "main-theme": "thanksgiving2025",
   "themes": [
     {
       "id": "default",
@@ -41,6 +41,11 @@
       "id": "christmas2025",
       "name": "Christmas 2025",
       "themePath": "/christmas2025.js"
+    },
+    {
+      "id": "thanksgiving2025",
+      "name": "Thanksgiving 2025",
+      "themePath": "/thanksgiving2025.js"
     }
   ]
 }
