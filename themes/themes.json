@@ -1,6 +1,6 @@
 {
   "site": "https://hideout-network.github.io/hideout-assets/themes",
-  "main-theme": "default",
+  "main-theme": "christmas2025",
   "themes": [
     {
       "id": "default",
@@ -8,9 +8,9 @@
       "themePath": "/default.js"
     },
     {
-      "id": "halloween",
+      "id": "halloween2025",
       "name": "Halloween 2025",
-      "themePath": "/halloween.js"
+      "themePath": "/halloween2025.js"
     },
     {
       "id": "forest",
@@ -36,6 +36,16 @@
       "id": "crimson",
       "name": "Crimson",
       "themePath": "/crimson.js"
+    },
+    {
+      "id": "christmas2025",
+      "name": "Christmas 2025",
+      "themePath": "/christmas2025.js"
+    },
+    {
+      "id": "thanksgiving2025",
+      "name": "Thanksgiving 2025",
+      "themePath": "/thanksgiving2025.js"
     }
   ]
 }

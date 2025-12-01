@@ -1,0 +1,70 @@
+{
+  "site": "https://hideout-network.github.io/hideout-assets/about:blank/presets",
+  "presets": [
+    {
+      "id": "google",
+      "name": "Google",
+      "presetPath": "/google.json"
+    },
+    {
+      "id": "googleclassrooms",
+      "name": "Google Classrooms",
+      "presetPath": "/googleclassrooms.json"
+    },
+    {
+      "id": "schoology",
+      "name": "Schoology",
+      "presetPath": "/schoology.json"
+    },
+    {
+      "id": "clever",
+      "name": "Clever",
+      "presetPath": "/clever.json"
+    },
+    {
+      "id": "powerschool",
+      "name": "PowerSchool",
+      "presetPath": "/powerschool.json"
+    },
+    {
+      "id": "canvas",
+      "name": "Canvas",
+      "presetPath": "/canvas.json"
+    },
+    {
+      "id": "khanacademy",
+      "name": "Khan Academy",
+      "presetPath": "/khanacademy.json"
+    },
+    {
+      "id": "edpuzzle",
+      "name": "EdPuzzle",
+      "presetPath": "/edpuzzle.json"
+    },
+    {
+      "id": "pearson",
+      "name": "Pearson",
+      "presetPath": "/pearson.json"
+    },
+    {
+      "id": "ixl",
+      "name": "IXL",
+      "presetPath": "/ixl.json"
+    },
+    {
+      "id": "classlink",
+      "name": "ClassLink",
+      "presetPath": "/classlink.json"
+    },
+    {
+      "id": "quizlet",
+      "name": "Quizlet",
+      "presetPath": "/quizlet.json"
+    },
+    {
+      "id": "kahoot",
+      "name": "Kahoot",
+      "presetPath": "/kahoot.json"
+    }
+  ]
+}
