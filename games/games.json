@@ -1239,6 +1239,13 @@
       "popularity": [],
       "categories": ["Puzzle", "Arcade"],
       "gamePath": "/worlds-hardest-game/index.html"
+    },
+    {
+      "name": "Deltarune",
+      "iconPath": "/deltarune/icon.webp",
+      "popularity": [],
+      "categories": ["Puzzle", "Arcade"],
+      "gamePath": "/deltarune/index.html"
     }
   ]
 }
